@@ -1,0 +1,68 @@
+#whole_page {
+    
+    top: 0px;
+    left: 0px;
+   
+   
+}
+
+
+#welcome {
+    background-color:burlywood;
+    width: 700px;
+    height: 460px;
+    float: left;
+    left: 200px;
+    position: fixed;
+    top: 55px;
+    padding: 3%;
+    text-align: justify;
+    border-radius: 10px;
+
+}
+
+#login {
+    background-color: orangered;
+    width: 200px;
+    height: 357px;
+    float: left;
+    left: 850px;
+    position: fixed;
+    top: 55px;
+    padding-top:13.5%;
+    padding-left: 4%;
+    padding-right: 3%;
+    text-align: justify;
+    border-top-right-radius: 10px;
+    border-bottom-right-radius: 10px;
+    
+}
+h1 {
+    color:green;
+    text-align: center;
+}
+
+button {
+    background-color:blue;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+
+
+}
+a {
+    text-decoration: none;
+}
+.error {
+    background-color: #f8d7da;
+    color: #721c24;
+    width: 200px;
+    padding: 10px;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+    margin-bottom: 10px;
+  }
+  
+

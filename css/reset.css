@@ -1,0 +1,21 @@
+#email {
+    left: 520px;
+    position: fixed;
+    text-align: center;
+    width: 250px;
+    
+    
+
+}
+h1 {
+    color:black;
+    text-align: center;
+
+}
+
+button {
+        background-color: #333;
+        padding: 10px 20px;
+        border: 0px;
+        border-radius: 10px;
+}

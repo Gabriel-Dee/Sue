@@ -1,0 +1,62 @@
+
+#whole_page {
+
+    background-color:whitesmoke;
+    width: 1336px;
+    height: 620px;
+    top: 0px;
+    left: 0px;
+}
+#reg_no {
+    text-align: center;
+}
+
+h1 {
+    color: black;
+    text-align: center;
+}
+button {
+    background-color:#446190;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    text-decoration: none;
+
+
+}
+a:hover {
+    color: #f4f4f4;
+    background: pink;
+
+}
+#authentication {
+
+    background-color: burlywood;
+    width: 500px;
+    height: 460px;
+    float: left;
+    left: 400px;
+    position: fixed;
+    top: 55px;
+    padding: 3%;
+    text-align: center;
+    border-radius: 10px;
+   
+}
+.error {
+    background-color: red;
+    color: #fff;
+    height: auto;
+    width: 450px;
+    border: 1px solid #f5c6cb;
+    border-radius: 4px;
+    margin-bottom: 10px;
+    position: relative;
+    padding: 0.75rem 1.25rem;
+    margin-bottom: 1rem;
+    border: 1px solid transparent;
+    border-radius: 0.25rem;
+    
+  }

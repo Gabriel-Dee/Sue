@@ -1,0 +1,53 @@
+h1 {
+    color: black;
+    text-align: center;
+    left: 50%;
+}
+
+h2{
+    
+    text-align: left;
+    color:black;
+    left: 50%;
+}
+#Sign-Admin {
+    background-color:burlywood;
+    width:30%;
+    height: 500px;
+    left: 20%;
+    position: fixed;
+    top: 60px;
+    padding-left: 250px;
+    padding-right: 3%;
+    text-align: justify;
+    border-radius: 10px;
+
+}
+
+#whole_page {
+    width: 1338px;
+    height: 611px;
+    top: 0px;
+    left: 0px;  
+}
+input{
+    width: 50%;
+    padding: 1px 20px;
+}
+button {
+    background-color: blue;
+    cursor: pointer;
+    padding: 10px 20px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+}
+button:hover {
+
+    color: #f4f4f4;
+    background: #446190;
+}
+
+
+
+   

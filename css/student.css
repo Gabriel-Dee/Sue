@@ -1,0 +1,24 @@
+button {
+    background-color: olivedrab;
+    cursor: pointer;
+    padding: 10px 2px;
+    border: none;
+    font-size: 16px;
+    border-radius: 5px;
+    
+
+
+}
+button:hover {
+    color: #f4f4f4;
+    background: #446190;
+}
+
+#whole_page {
+
+    background-color:white;
+    width: 1336px;
+    height: 620px;
+    top: 0px;
+    left: 0px;
+}
